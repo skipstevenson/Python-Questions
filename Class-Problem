@@ -1,8 +1,8 @@
 Cory,
 When I tried to run the code from the Object-Oriented Programming chapter
-in your online course, I got a TypeError related to the statement 
-orange = Orange(6, orange).  Any idea why this is happening and what I can 
-do to fix it?
+in your online course, I got a "TypeError: Orange() takes no arguments" related
+to the statement orange = Orange(6, orange).  Any idea why this is happening 
+and what I can do to fix it?
 
 
 # Object-Oriented Programming file
