@@ -17,7 +17,6 @@ class Orange():
         print("Created!")
         
     def rot(self, days, temp):
-        print("days: ", days, "  temp: ", temp)
         self.mold = days * temp
         
 orange = Orange(6, "orange")
