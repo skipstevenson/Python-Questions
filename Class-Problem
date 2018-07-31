@@ -1,8 +1,10 @@
+"""
 Cory,
 When I tried to run the code from the Object-Oriented Programming chapter
 in your online course, I got a "TypeError: Orange() takes no arguments" related
 to the statement orange = Orange(6, orange).  Any idea why this is happening 
-and what I can do to fix it?
+and what I can do to fix it? 
+"""
 
 
 # Object-Oriented Programming file
@@ -23,8 +25,10 @@ print(orange.mold)
 orange.rot = (10, 98)
 print(orange.mold)
 
+"""
 Traceback (most recent call last):
   File "C:\Users\skips\OneDrive\Documents\Python Course Folder\tstp\ObjectOrientedProgramming.py", line 14, in <module>
     orange = Orange(6, "orange")
 TypeError: Orange() takes no arguments
 >>> 
+"""
