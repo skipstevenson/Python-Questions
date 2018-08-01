@@ -1,2 +1,2 @@
 # Python-Questions
-I was a hot-shot FORTRAN programmer many, many moons ago.  I've recently retired and decided to pick up again on programming, starting with Python.
+The files in this repository consist of short (usually) sections of code that I am having difficulty with as I learn to program in Python.
